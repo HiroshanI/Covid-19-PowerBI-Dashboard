@@ -1,5 +1,5 @@
 # Covid-19-PowerBI-Dashboard
-A multi-paged dashboard that provides a high-level overview on the spread and vaccination of the virus
+A multi-paged dashboard that provides a high-level overview on the spread and vaccination of the virus with respect to country and WHO Region
 
 ## Tools
 - PowerBI
